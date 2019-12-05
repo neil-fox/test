@@ -1,1 +1,1 @@
-![fox](/images/foxcircle.jpeg)
+![fox](/boss.PNG)
